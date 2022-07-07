@@ -1,4 +1,4 @@
-# Solver - TDD Project
+# Hello Rails App
 
 > This is my first ruby on rails app created with `rails new hellorails -d postgresql`
 
