@@ -1,56 +1,41 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Solver - TDD Project
 
-# Project Name
-
-> Description the project.
-
-
-## Built With
-
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
+> This is my first ruby on rails app created with `rails new hellorails -d postgresql`
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+To start using this software you need to have Ruby installed in your machine
 
+Then clone this repo:
 
-To get a local copy up and running follow these simple example steps.
+```
+-$ git clone git@github.com:Ismailco/rails_hello_app.git
+```
 
-### Prerequisites
+```
+-$ cd rails_hello_app
+```
 
-### Setup
+To run the server:
 
-### Install
+```
+rails server
+```
 
-### Usage
+To run rspec, in your terminal for testing the methods:
 
-### Run tests
-
-### Deployment
-
+```
+-$ rspec
+```
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Ismail courr**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@ismailco](https://github.com/ismailco)
+- Twitter: [@ismailcourr](https://twitter.com/ismailcourr)
+- LinkedIn: [ismailcourr](https://linkedin.com/in/ismailcourr)
 
 ## 🤝 Contributing
 
@@ -62,12 +47,6 @@ Feel free to check the [issues page](../../issues/).
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
 ## 📝 License
 
-This project is [MIT](./MIT.md) licensed.
+This project is [MIT](./LICENSE) licensed.
